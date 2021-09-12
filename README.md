@@ -1,2 +1,2 @@
 # PAT_code
-# PTA Notes
+The repository is for the PTA notes.
